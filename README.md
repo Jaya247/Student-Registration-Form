@@ -9,7 +9,5 @@ Clean, centered layout with dark theme
 Responsive design
 Validates required fields, email format, phone number (10 digits), and password length
 
-
 🛠️ Built With
-
 HTML5, CSS3, JavaScript
